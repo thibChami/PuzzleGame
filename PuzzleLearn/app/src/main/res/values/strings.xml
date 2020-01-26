@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lets Puzzle</string>
+    <string name="enter_name">Entrer le nom du nouveau puzzle</string>
+    <string name="enter_url">Entrer ensuite son url </string>
+
+
+</resources>
